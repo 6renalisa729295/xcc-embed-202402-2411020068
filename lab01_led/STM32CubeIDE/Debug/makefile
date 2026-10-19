@@ -61,8 +61,8 @@ all: main-build
 main-build: shiyan1.elf secondary-outputs
 
 # Tool invocations
-shiyan1.elf shiyan1.map: $(OBJS) $(USER_OBJS) C:\Users\31191\Desktop\New\ Folder\shiyan1\STM32CubeIDE\STM32F407ZETX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "shiyan1.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\31191\Desktop\New Folder\shiyan1\STM32CubeIDE\STM32F407ZETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="shiyan1.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+shiyan1.elf shiyan1.map: $(OBJS) $(USER_OBJS) C:\Users\31191\GitHub\xcc-embed-202402-2411020068\lab01_led\STM32CubeIDE\STM32F407ZETX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "shiyan1.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\31191\GitHub\xcc-embed-202402-2411020068\lab01_led\STM32CubeIDE\STM32F407ZETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="shiyan1.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

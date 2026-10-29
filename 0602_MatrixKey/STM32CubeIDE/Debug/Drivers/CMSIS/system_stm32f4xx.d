@@ -1,5 +1,5 @@
 Drivers/CMSIS/system_stm32f4xx.o: \
- C:/Users/31191/GitHub/xcc-embed-202402-2411020068/Core/Src/system_stm32f4xx.c \
+ C:/Users/31191/GitHub/embed/xcc-embed-202402-2411020068/0602_MatrixKey/Core/Src/system_stm32f4xx.c \
  ../../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h \
  ../../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h \
  ../../Drivers/CMSIS/Include/core_cm4.h \

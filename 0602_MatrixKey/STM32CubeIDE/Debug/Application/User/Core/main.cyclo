@@ -1,4 +1,4 @@
-C:/Users/31191/GitHub/xcc-embed-202402-2411020068/Core/Src/main.c:3:6:GPIO_Init_Manual	1
-C:/Users/31191/GitHub/xcc-embed-202402-2411020068/Core/Src/main.c:31:9:KeyScan	28
-C:/Users/31191/GitHub/xcc-embed-202402-2411020068/Core/Src/main.c:87:6:BCD_Output	6
-C:/Users/31191/GitHub/xcc-embed-202402-2411020068/Core/Src/main.c:104:5:main	2
+C:/Users/31191/GitHub/embed/xcc-embed-202402-2411020068/0602_MatrixKey/Core/Src/main.c:3:6:GPIO_Init_Manual	1
+C:/Users/31191/GitHub/embed/xcc-embed-202402-2411020068/0602_MatrixKey/Core/Src/main.c:31:9:KeyScan	28
+C:/Users/31191/GitHub/embed/xcc-embed-202402-2411020068/0602_MatrixKey/Core/Src/main.c:87:6:BCD_Output	6
+C:/Users/31191/GitHub/embed/xcc-embed-202402-2411020068/0602_MatrixKey/Core/Src/main.c:104:5:main	2

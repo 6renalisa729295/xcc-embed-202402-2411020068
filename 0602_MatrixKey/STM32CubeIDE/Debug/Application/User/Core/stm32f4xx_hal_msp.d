@@ -1,5 +1,5 @@
 Application/User/Core/stm32f4xx_hal_msp.o: \
- C:/Users/31191/GitHub/xcc-embed-202402-2411020068/Core/Src/stm32f4xx_hal_msp.c \
+ C:/Users/31191/GitHub/embed/xcc-embed-202402-2411020068/0602_MatrixKey/Core/Src/stm32f4xx_hal_msp.c \
  ../../Core/Inc/main.h \
  ../../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h \
  ../../Core/Inc/stm32f4xx_hal_conf.h \

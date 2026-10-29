@@ -1,0 +1,4 @@
+C:/Users/31191/GitHub/xcc-embed-202402-2411020068/Core/Src/main.c:3:6:GPIO_Init_Manual	40	static
+C:/Users/31191/GitHub/xcc-embed-202402-2411020068/Core/Src/main.c:31:9:KeyScan	16	static
+C:/Users/31191/GitHub/xcc-embed-202402-2411020068/Core/Src/main.c:87:6:BCD_Output	24	static
+C:/Users/31191/GitHub/xcc-embed-202402-2411020068/Core/Src/main.c:104:5:main	16	static
